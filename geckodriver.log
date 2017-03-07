@@ -1,0 +1,310 @@
+1488849865181	geckodriver	INFO	Listening on 127.0.0.1:60208
+1488849867240	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.iyfUfVtXVq2y
+1488849867240	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488849867303	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60214
+1488849868636	Marionette	INFO	Listening on port 60214
+[Child 3628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488849905923	geckodriver	INFO	Listening on 127.0.0.1:60242
+1488849907951	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.Nl6B06LWqFyB
+1488849907951	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488849908014	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60248
+1488849909022	Marionette	INFO	Listening on port 60248
+[Child 7048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488850269738	geckodriver	INFO	Listening on 127.0.0.1:60553
+1488850271767	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.bx7bi0y8I3ru
+1488850271770	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488850271824	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60559
+1488850272860	Marionette	INFO	Listening on port 60559
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008477&pd=7&pdh=864&pdw=1536&pr=4022227246&pr1=2453254453&prr=&pv=4&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Child 804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488851010568	geckodriver	INFO	Listening on 127.0.0.1:61015
+1488851012631	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.aLyLabMT6Mp7
+1488851012634	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851012705	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61021
+1488851013786	Marionette	INFO	Listening on port 61021
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008453&pd=7&pdh=864&pdw=1536&pr=448331514&pr1=1416817316&prr=&pv=4&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488851250560	geckodriver	INFO	Listening on 127.0.0.1:61512
+1488851252616	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.bJYbKgyWT9Jf
+1488851252620	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851252693	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61518
+1488851253884	Marionette	INFO	Listening on port 61518
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008438&pd=7&pdh=864&pdw=1536&pr=2992341646&pr1=404778585&prr=&pv=4&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Child 8804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488851322398	geckodriver	INFO	Listening on 127.0.0.1:61845
+1488851324446	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.Sl1JBs0WHHvz
+1488851324449	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851324507	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61851
+1488851325582	Marionette	INFO	Listening on port 61851
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008493&pd=7&pdh=864&pdw=1536&pr=1250281931&pr1=4045051147&prr=&pv=4&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+[Child 1892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488851567109	geckodriver	INFO	Listening on 127.0.0.1:62233
+1488851569145	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.UVEOwnUMl5Rs
+1488851569161	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851569208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62239
+1488851570287	Marionette	INFO	Listening on port 62239
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008446&pd=7&pdh=864&pdw=1536&pr=3922885227&pr1=1305210509&prr=&pv=4&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488851682049	geckodriver	INFO	Listening on 127.0.0.1:62579
+1488851684087	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.p2WuoKLCad4F
+1488851684090	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851684142	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62585
+1488851685074	Marionette	INFO	Listening on port 62585
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008401&pd=7&pdh=864&pdw=1536&pr=2222782997&pr1=2709848892&prr=&pv=4&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+1488851762822	geckodriver	INFO	Listening on 127.0.0.1:62898
+1488851764897	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.nhs4DdG5gHa2
+1488851764897	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851764975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62917
+1488851766129	Marionette	INFO	Listening on port 62917
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008426&pd=7&pdh=864&pdw=1536&pr=1189090326&pr1=1620199077&prr=&pv=4&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488851830861	geckodriver	INFO	Listening on 127.0.0.1:63275
+1488851832893	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.IzznLGAloiSt
+1488851832897	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851832964	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63285
+1488851834288	Marionette	INFO	Listening on port 63285
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008406&pd=7&pdh=864&pdw=1536&pr=2415539614&pr1=2731272068&prr=&pv=4&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488851946335	geckodriver	INFO	Listening on 127.0.0.1:63626
+1488851948386	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.SpOD4iKCdrKQ
+1488851948389	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488851948449	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63632
+1488851949521	Marionette	INFO	Listening on port 63632
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008441&pd=7&pdh=864&pdw=1536&pr=3230192549&pr1=1271402507&prr=&pv=4&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488852033762	geckodriver	INFO	Listening on 127.0.0.1:64021
+1488852035781	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.9b2dld2PjRjO
+1488852035781	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488852035844	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64027
+1488852037130	Marionette	INFO	Listening on port 64027
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008442&pd=7&pdh=864&pdw=1536&pr=2685471336&pr1=866825053&prr=&pv=5&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Parent 6596] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+naj910wirU
+1488852216770	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488852216838	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64363
+1488852217877	Marionette	INFO	Listening on port 64363
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008495&pd=7&pdh=864&pdw=1536&pr=770306104&pr1=453024748&prr=&pv=5&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488852323363	geckodriver	INFO	Listening on 127.0.0.1:64914
+1488852325424	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.odk63ewuABxW
+1488852325424	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488852325486	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64920
+1488852326610	Marionette	INFO	Listening on port 64920
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008494&pd=7&pdh=864&pdw=1536&pr=2048243244&pr1=4178485331&prr=&pv=5&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488852535644	geckodriver	INFO	Listening on 127.0.0.1:65243
+1488852537675	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.1mdTnaWZi31R
+1488852537675	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488852537722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65249
+1488852538677	Marionette	INFO	Listening on port 65249
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008421&pd=7&pdh=864&pdw=1536&pr=2761940741&pr1=3414318520&prr=&pv=5&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488852800187	geckodriver	INFO	Listening on 127.0.0.1:49219
+1488852802247	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.Z6WJiBUh0ds3
+1488852802263	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488852802310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49225
+1488852803537	Marionette	INFO	Listening on port 49225
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008436&pd=7&pdh=864&pdw=1536&pr=4261443175&pr1=3482834563&prr=&pv=5&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 7436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+r return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008405&pd=7&pdh=864&pdw=1536&pr=41651404&pr1=674704327&prr=&pv=5&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Child 6460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488852960694	geckodriver	INFO	Listening on 127.0.0.1:49895
+1488852962719	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.Zts5p4VboklE
+1488852962723	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488852962791	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49901
+1488852964032	Marionette	INFO	Listening on port 49901
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008417&pd=7&pdh=864&pdw=1536&pr=3816928500&pr1=675685464&prr=&pv=5&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+[Child 9460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488853287621	geckodriver	INFO	Listening on 127.0.0.1:50287
+1488853289661	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.RNYFxsiobzz3
+1488853289665	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488853289727	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50293
+1488853290721	Marionette	INFO	Listening on port 50293
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008455&pd=7&pdh=864&pdw=1536&pr=2357808280&pr1=3154263061&prr=&pv=5&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+river::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488853479448	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50673
+1488853480545	Marionette	INFO	Listening on port 50673
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008419&pd=7&pdh=864&pdw=1536&pr=424732731&pr1=2771191310&prr=&pv=5&pw=2&sign=c15f5aa2144df43cb2d0468de1409dd8&skipToken=&utf8=%E2%9C%93&yandexuid=4909359393553939843&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Child 9088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488854497030	geckodriver	INFO	Listening on 127.0.0.1:51281
+1488854499074	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.sHQnOJrsgqqc
+1488854499077	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488854499140	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51287
+1488854500173	Marionette	INFO	Listening on port 51287
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008422&pd=7&pdh=864&pdw=1536&pr=3305019419&pr1=482630455&prr=&pv=5&pw=2&skipToken=&utf8=%E2%9C%93&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+1488858344891	geckodriver	INFO	Listening on 127.0.0.1:54699
+1488858346930	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.ifR5Cst2eEXu
+1488858346935	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488858347023	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54729
+1488858348995	Marionette	INFO	Listening on port 54729
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008460&pd=7&pdh=864&pdw=1536&pr=1092431238&pr1=4204234104&prr=&pv=6&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Child 11996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1488858663158	geckodriver	INFO	Listening on 127.0.0.1:55787
+1488858665199	mozprofile::profile	INFO	Using profile path C:\Users\sep\AppData\Local\Temp\rust_mozprofile.K0SqGZ4ryJTq
+1488858665199	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488858665282	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55793
+1488858666646	Marionette	INFO	Listening on port 55793
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript warning: https://www.avito.st/s/cc/093676680537ee50bf9bc123f6e53dc1718b20e3.js?9b64553, line 2: unreachable code after return statement
+JavaScript error: https://ads.adfox.ru/245183/getCodeTest?dl=https%3A%2F%2Fwww.avito.ru%2Fmoskva%2Ftelefony%2Fnovye_xiaomi_redmi_note_4x_i_note_4_vo_vseh_tsvetah_922189984&grab=dNCd0L7QstGL0LUgWGlhb21pIFJlZG1pIE5vdGUgNHgg0LggTm90ZSA0INCy0L4g0LLRgdC10YUg0YbQstC10YLQsNGFINC60YPQv9C40YLRjCDQsiDQnNC-0YHQutCy0LUg0L3QsCBBdml0byDigJQg0J7QsdGK0Y_QstC70LXQvdC40Y8g0L3QsCDRgdCw0LnRgtC1IEF2aXRvCg%3D%3D&p1=bugaz&p2=fhtt&partner-stat-id=100008470&pd=7&pdh=864&pdw=1536&pr=3830555074&pr1=1550391739&prr=&pv=6&pw=2&sign=81e2b71466e3165fec54fb801f2fa886&skipToken=&utf8=%E2%9C%93&yandexuid=10219742590840425453&ylv=0.335&lvlfrom=13, line 6: NS_ERROR_NOT_INITIALIZED: 
+[Child 796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
